@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DerivcoKitchenWebAPI", "DerivcoKitchenWebAPI\DerivcoKitchenWebAPI.csproj", "{7F39404B-3A66-459C-B9B3-92B6DE62ED2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DerivcoKitchenWebAPI.Data", "DerivcoKitchenWebAPI.Data\DerivcoKitchenWebAPI.Data.csproj", "{5455E253-83B8-4BEC-9085-1F8D84963C77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DerivcoKitchenWebAPI.BLL", "DerivcoKitchenWebAPI.BLL\DerivcoKitchenWebAPI.BLL.csproj", "{1F49AA24-BF0C-499C-B8C9-78CC245E44C9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4B9E2C10-521B-40D2-9AA2-6E72CE712810}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F39404B-3A66-459C-B9B3-92B6DE62ED2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F39404B-3A66-459C-B9B3-92B6DE62ED2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F39404B-3A66-459C-B9B3-92B6DE62ED2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F39404B-3A66-459C-B9B3-92B6DE62ED2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5455E253-83B8-4BEC-9085-1F8D84963C77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5455E253-83B8-4BEC-9085-1F8D84963C77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5455E253-83B8-4BEC-9085-1F8D84963C77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5455E253-83B8-4BEC-9085-1F8D84963C77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F49AA24-BF0C-499C-B8C9-78CC245E44C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F49AA24-BF0C-499C-B8C9-78CC245E44C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F49AA24-BF0C-499C-B8C9-78CC245E44C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F49AA24-BF0C-499C-B8C9-78CC245E44C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {897E6E2E-5764-4C83-8BB9-4B5D8B19C686}
+	EndGlobalSection
+EndGlobal
